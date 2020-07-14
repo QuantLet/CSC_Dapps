@@ -1,0 +1,16 @@
+Name of Quantlet : CSC_BigQuery
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'BigQuery on Kaggle platform to obtain dataset with ethereum hashes, contracts'
+
+Keywords : 
+ - smart-contracts
+ - BigQuery
+ - Kaggle
+ - ethereum
+ - blockchain
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Tue, Jul 14 2020 by Elizaveta Zinovyeva

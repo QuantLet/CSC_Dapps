@@ -1,0 +1,18 @@
+Name of Quantlet : CSC_Dapp_classification
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'Classification of smart contracts using traditional and deep learning methods'
+
+Keywords : 
+ - smart-contracts
+ - ethereum
+ - blockchain
+ - finance
+ - exchange
+ - games
+ - source code classification
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Tue, Jul 14 2020 by Elizaveta Zinovyeva

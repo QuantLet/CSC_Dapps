@@ -1,0 +1,16 @@
+Name of Quantlet : CSC_Scraping
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'Scraping source codes given hashes'
+
+Keywords : 
+ - smart-contracts
+ - hash
+ - API
+ - ethereum
+ - blockchain
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Tue, Jul 14 2020 by Elizaveta Zinovyeva

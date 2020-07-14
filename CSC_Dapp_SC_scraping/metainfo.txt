@@ -1,0 +1,18 @@
+Name of Quantlet : CSC_Dapp_SC_scraping
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'obtaining Dapp smart contracts using API, parsing source code'
+
+Keywords : 
+ - smart-contracts
+ - ethereum
+ - blockchain
+ - API
+ - parsing
+ - source code
+ - json
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Tue, Jul 14 2020 by Elizaveta Zinovyeva

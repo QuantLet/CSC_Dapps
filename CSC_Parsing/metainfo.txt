@@ -1,0 +1,16 @@
+Name of Quantlet : CSC_Parsing
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'Parsing of smart contracts, data frame creation'
+
+Keywords : 
+ - smart-contracts
+ - data frame
+ - ethereum
+ - blockchain
+ - json
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Tue, Jul 14 2020 by Elizaveta Zinovyeva
