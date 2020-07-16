@@ -1,0 +1,17 @@
+Name of Quantlet : CSC_Dapp_plotting
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'Plotting DApps tSNE'
+
+Keywords : 
+ - smart-contracts
+ - plot
+ - visualization
+ - ethereum
+ - blockchain
+ - tSNE
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Thu, Jul 16 2020 by Elizaveta Zinovyeva
