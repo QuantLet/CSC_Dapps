@@ -1,0 +1,16 @@
+Name of Quantlet : CSC_contracts_over_time
+
+Published in : 'Classifying and Clustering Smart Contracts'
+
+Description : 'Plotting contracts over time'
+
+Keywords : 
+ - smart-contracts
+ - plot
+ - visualization
+ - ethereum
+ - blockchain
+
+Author :  Elizaveta Zinovyeva, Raphael Constantin Georg Reule
+
+Submitted :  Thu, Jul 16 2020 by Elizaveta Zinovyeva
